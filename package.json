@@ -1,7 +1,7 @@
 {
     "name": "@barbarianbard/aws-sdk-wrapper",
     "type": "module",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "scripts": {
         "clean": "rm -rf ./dist",
         "build": "npm run clean && ./node_modules/typescript/bin/tsc -p ./tsconfig.json",
